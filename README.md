@@ -4,4 +4,4 @@ This is a sample file
 
 ## Header 2
 
-this change produces a conflict
+good modifications or changes
