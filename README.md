@@ -4,6 +4,4 @@ This is a sample file
 
 ## Header 2
 
-xxxxxxxxxxx
-yyyyyyyy
-zzzzzzzz
+good modifications or changes
